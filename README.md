@@ -1,9 +1,9 @@
-### Hello there 👋
+### Hello there
 
 My name is José Carlos Zancanaro. Welcome to my github profile!  
  
-- :grin: I'm Bachelor's degree in Computer Science. 
-- :video_game: Computing enthusiast with great interest in Programming, Artificial Intelligence and Digital Games.  
-- :books: With great interest in learning more, I am eager to expand my knowledge and seek new opportunities in the various areas of Computer Science.
+- 💻 I'm Bachelor's Degree in Computer Science. 
+- 🎮 Computing enthusiast, with a strong interest in areas such as Programming, Artificial Intelligence and Digital Games.  
+- 📚 Always in pursuit of continuous learning and new opportunities to expand my knowledge in the diverse fields of Computer Science.
 
-:thumbsup:
+👍
