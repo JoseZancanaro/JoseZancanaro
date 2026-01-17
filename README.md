@@ -1,9 +1,10 @@
 ### Hello there
-
-My name is José Carlos Zancanaro. Welcome to my github profile!  
+My name is José Carlos Zancanaro. Welcome to my GitHub profile!  
  
-- 💻 I'm Bachelor's Degree in Computer Science. 
-- 🎮 Computing enthusiast, with a strong interest in areas such as Programming, Artificial Intelligence and Digital Games.  
-- 📚 Always in pursuit of continuous learning and new opportunities to expand my knowledge in the diverse fields of Computer Science.
+- 💻 I'm a Computer Scientist from Santa Catarina - Brazil, with a strong interest in software development, artificial intelligence and digital games.
+- 🎓 Bachelor's Degree in Computer Science from UNIVALI.
+- 🚀 Passionate about building thoughtful and functional software, constantly seeking new challenges and learning opportunities.
+- 🌐 Check out my website: [josezancanaro.com](https://josezancanaro.com/)
+- 📫 Feel free to reach out for projects, ideas or just a chat: zancanaro.work@outlook.com
 
 👍
